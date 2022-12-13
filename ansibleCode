@@ -14,5 +14,5 @@
       enabled: yes
   - name: Git checkout
     git:
-      repo: 'https://github.com/Mahmoud1995m/simpleWebApp.git'
+      repo: 'https://github.com/Mahmoud1995m/deploysWebAppWithAnsible.git'
       dest: /var/www/html/
